@@ -1,0 +1,8 @@
+Windows->Preferences->General->Appearance->Colors and Fonts
+Basic->Text Font 点击 Edit 字体大小选择12其他均为默认
+
+
+勾选Refresh using native hooks or polling
+
+2. Windows->Preferences->General->Workspace
+最下面的Text file encoding修改为utf-8

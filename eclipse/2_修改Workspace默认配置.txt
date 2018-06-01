@@ -1,0 +1,5 @@
+1. Windows->Preferences->General->Workspace
+勾选Refresh using native hooks or polling
+
+2. Windows->Preferences->General->Workspace
+最下面的Text file encoding修改为utf-8

@@ -1,0 +1,8 @@
+修改已配置在jackPreference.epf文件里。这里仅做检查。
+快捷键映射表包括：
+Ctrl e
+Ctrl f
+Ctrl p
+Ctrl n
+Ctrl y
+Ctrl Shift v
